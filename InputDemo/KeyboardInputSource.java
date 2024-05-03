@@ -1,8 +1,6 @@
 package byow.InputDemo;
 
-/**
- * Created by hug.
- */
+
 import edu.princeton.cs.algs4.StdDraw;
 
 public class KeyboardInputSource implements InputSource {

@@ -4,9 +4,7 @@ import edu.princeton.cs.algs4.StdDraw;
 
 import java.util.Random;
 
-/**
- * Created by hug.
- */
+
 public class RandomInputSource implements InputSource {
     Random r;
 

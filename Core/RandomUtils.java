@@ -6,8 +6,7 @@ import java.util.Random;
  * A library of static methods to generate pseudo-random numbers from
  * different distributions (bernoulli, uniform, gaussian, discrete,
  * and exponential). Also includes methods for shuffling an array and
- * other randomness related stuff you might want to do. Feel free to
- * modify this file.
+ * other randomness related stuff you might want to do. 
  * <p>
  * Adapted from https://introcs.cs.princeton.edu/java/22library/StdRandom.java.html
 *
@@ -67,10 +66,6 @@ public class RandomUtils {
         return r;
     }
 
-    ///////////////////////////////////////////////////////////////////////////
-    //  STATIC METHODS BELOW RELY ON JAVA.UTIL.RANDOM ONLY INDIRECTLY VIA
-    //  THE STATIC METHODS ABOVE.
-    ///////////////////////////////////////////////////////////////////////////
 
 
     /**

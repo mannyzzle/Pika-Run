@@ -1,6 +1,6 @@
 # Pika-Run
 
-~Open World Mini Game~
+-Open World Mini Game-
 
 ## Classes and Data Structures
 Engine class: is the central component of a text-based game application that simulates a world exploration experience.

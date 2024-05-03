@@ -2,7 +2,7 @@
 
 ## Open World Mini Game-
 
-![Example Image](pikarun_menu.png)
+![Example Image](pikarun_load.png)
 ![Example Image](pikarun_game.png)
 
 ## Classes and Data Structures
